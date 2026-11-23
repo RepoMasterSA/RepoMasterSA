@@ -6,7 +6,7 @@
   <a href="YOUR-RESUME-LINK">Resume</a>
 </p>
 
-## About
+## About 
 
 Final-year student focused on building LLM applications that stay reliable outside a demo. I work on retrieval-augmented generation, with an emphasis on systems that evaluate and correct their own outputs, and on the MLOps tooling that makes experiments reproducible.
 
