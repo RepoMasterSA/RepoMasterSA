@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Building intelligent software from idea to working system" width="100%"/>
+<img src="https://raw.githubusercontent.com/RepoMasterSA/RepoMasterSA/main/assets/banner.svg" alt="Computer Science, AI, Python, Transformers" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaurya-agrawal28">LinkedIn</a> &nbsp;·&nbsp;
@@ -6,11 +6,24 @@
   <!-- TODO: add " &nbsp;·&nbsp; <a href="YOUR-RESUME-LINK">Resume</a>" once you have a public resume link -->
 </p>
 
+<img src="https://raw.githubusercontent.com/RepoMasterSA/RepoMasterSA/main/assets/stats.svg" alt="100K+ records cleaned, 40% less manual reporting, 6 core KPIs, 10,000 images ranked" width="100%"/>
+
 ## About
 
 I'm a Computer Science undergraduate (B.Tech, 2027) at UPES, Dehradun. I build software across machine learning, data and backend engineering, and I like taking an idea from a rough prototype to something that actually runs.
 
 Open to software, ML and GenAI engineering internships and 2027 graduate roles.
+
+## Projects
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RepoMasterSA/RepoMasterSA/main/assets/card-pr-reviewer.svg" alt="GitHub PR Reviewer" width="49%"/>
+  <img src="https://raw.githubusercontent.com/RepoMasterSA/RepoMasterSA/main/assets/card-speech.svg" alt="Multilingual Speech-to-Text" width="49%"/>
+  <a href="https://github.com/RepoMasterSA/Self-Correcting-RAG-"><img src="https://raw.githubusercontent.com/RepoMasterSA/RepoMasterSA/main/assets/card-rag.svg" alt="Self-Correcting RAG Agent" width="49%"/></a>
+  <img src="https://raw.githubusercontent.com/RepoMasterSA/RepoMasterSA/main/assets/card-risk.svg" alt="Portfolio Risk Analysis App" width="49%"/>
+  <img src="https://raw.githubusercontent.com/RepoMasterSA/RepoMasterSA/main/assets/card-image-rec.svg" alt="Image Recommendation" width="49%"/>
+</p>
+<!-- TODO: add a link to each project's repo by wrapping its <img> in <a href="REPO-URL">...</a>, as done for the RAG card. Fill in the PR Reviewer description in assets/card-pr-reviewer.svg. -->
 
 ## Experience
 
@@ -25,30 +38,13 @@ Open to software, ML and GenAI engineering internships and 2027 graduate roles.
 Two-month, project-based internship. Worked in a team on a web-based portfolio risk analysis application (React, FastAPI) using Yahoo Finance data.
 <!-- TODO: add one sentence on what YOU personally built. -->
 
-## Projects
-
-Newest first. Source links go to the repository.
-
-| Project | What it is | Stack | Status |
-|---|---|---|---|
-| **GitHub PR Reviewer** | A tool for reviewing GitHub pull requests. <!-- TODO: one specific sentence on what it does, then add a link --> | | In progress |
-| **Multilingual Speech-to-Text** | Transformer-based speech-to-text across multiple languages, evaluated with Word Error Rate. | Python, PyTorch | In progress |
-| [**Self-Correcting RAG Agent**](https://github.com/RepoMasterSA/Self-Correcting-RAG-) | A question-answering agent over PDFs that grades its own retrieval and checks answers against sources. | Python, LangGraph, ChromaDB | Built |
-| **Portfolio Risk Analysis App** | Team project from the IBM internship: web app for portfolio risk using Yahoo Finance data. | React, FastAPI | Built |
-| **Image Recommendation** | Finds similar images using CNN embeddings and cosine similarity across 10,000 images. | Python, TensorFlow | Built |
-
 ## Education
 
 **B.Tech, Computer Science and Engineering** · University of Petroleum and Energy Studies, Dehradun · 2023 – 2027
 
 ## Toolkit
 
-| | |
-|---|---|
-| **Languages** | Python, C++, SQL |
-| **Machine learning** | PyTorch, TensorFlow, model evaluation |
-| **Engineering** | FastAPI, Docker, Git, Linux |
-| **Data** | Pandas, NumPy, Power BI |
+<img src="https://raw.githubusercontent.com/RepoMasterSA/RepoMasterSA/main/assets/toolkit.svg" alt="Toolkit: Python, C++, SQL, PyTorch, TensorFlow, Transformers, FastAPI, Docker, Git, Linux, Pandas, NumPy, Power BI" width="100%"/>
 
 ## Contact
 
