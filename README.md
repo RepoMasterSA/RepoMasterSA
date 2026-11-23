@@ -1,41 +1,55 @@
-<img src="assets/header.svg" alt="Shaurya Agrawal: Generative AI, RAG Systems, MLOps" width="100%"/>
+<img src="assets/banner.svg" alt="Building intelligent software from idea to working system" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:YOUR@EMAIL">Email</a> &nbsp;·&nbsp;
-  <a href="YOUR-RESUME-LINK">Resume</a>
+  <a href="https://www.linkedin.com/in/shaurya-agrawal28">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:shauryaagrawal756@gmail.com">Email</a>
+  <!-- TODO: add " &nbsp;·&nbsp; <a href="YOUR-RESUME-LINK">Resume</a>" once you have a public resume link -->
 </p>
 
-## About 
+## About
 
-Final-year student focused on building LLM applications that stay reliable outside a demo. I work on retrieval-augmented generation, with an emphasis on systems that evaluate and correct their own outputs, and on the MLOps tooling that makes experiments reproducible.
+I'm a Computer Science undergraduate (B.Tech, 2027) at UPES, Dehradun. I build software across machine learning, data and backend engineering, and I like taking an idea from a rough prototype to something that actually runs.
 
-`TODO: one sentence on what you are looking for and what you bring, e.g. "Looking for GenAI engineering roles where I can own an LLM feature from retrieval to evaluation."`
+Open to software, ML and GenAI engineering internships and 2027 graduate roles.
 
-## Focus
+## Experience
 
-| Retrieval & LLM apps | MLOps | Foundations |
-|---|---|---|
-| RAG pipelines<br>Self-correcting retrieval<br>LangChain<br>Hugging Face | Versioned data and models (DVC)<br>End-to-end ML pipelines<br>Reproducible experiments | Python<br>Transformer architecture<br>Jupyter, Git |
+**AI/ML Intern, Dataview Analytics** &nbsp;<sub>Remote · Apr – Jun 2025</sub>
 
-## Selected work
+- Built a Python and SQL preprocessing workflow that cleaned, standardised and aggregated 100,000+ records from multiple regional sources into ML-ready datasets for weekly reporting.
+- Created Excel reporting templates for four departments, cutting manual reporting effort by 40%.
+- Built Power BI dashboards for revenue, customer segmentation and time-based KPIs, and defined and validated six core KPIs with analysts and stakeholders.
 
-| Project | Problem | Stack | Result |
+**IBM Summer Internship Program** &nbsp;<sub>Jun – Jul 2026</sub>
+
+Two-month, project-based internship. Worked in a team on a web-based portfolio risk analysis application (React, FastAPI) using Yahoo Finance data.
+<!-- TODO: add one sentence on what YOU personally built. -->
+
+## Projects
+
+Newest first. Source links go to the repository.
+
+| Project | What it is | Stack | Status |
 |---|---|---|---|
-| [**Self-Correcting RAG**](https://github.com/RepoMasterSA/Self-Correcting-RAG-) | `TODO: what failure it fixes` | Python, LangChain, `TODO` | `TODO: a number, e.g. faithfulness X → Y` |
-| [**MLOps Pipeline**](https://github.com/RepoMasterSA/MLOPS-PipeLine-) | `TODO: what it automates` | Python, DVC, `TODO` | `TODO: what is tracked / reproduced` |
+| **GitHub PR Reviewer** | A tool for reviewing GitHub pull requests. <!-- TODO: one specific sentence on what it does, then add a link --> | | In progress |
+| **Multilingual Speech-to-Text** | Transformer-based speech-to-text across multiple languages, evaluated with Word Error Rate. | Python, PyTorch | In progress |
+| [**Self-Correcting RAG Agent**](https://github.com/RepoMasterSA/Self-Correcting-RAG-) | A question-answering agent over PDFs that grades its own retrieval and checks answers against sources. | Python, LangGraph, ChromaDB | Built |
+| **Portfolio Risk Analysis App** | Team project from the IBM internship: web app for portfolio risk using Yahoo Finance data. | React, FastAPI | Built |
+| **Image Recommendation** | Finds similar images using CNN embeddings and cosine similarity across 10,000 images. | Python, TensorFlow | Built |
 
-More: [LangChain notes](https://github.com/RepoMasterSA/LangChain) · [DVC](https://github.com/RepoMasterSA/DVC)
+## Education
 
-## Stack
+**B.Tech, Computer Science and Engineering** · University of Petroleum and Energy Studies, Dehradun · 2023 – 2027
 
-![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=38bdf8)
-![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=langchain&logoColor=38bdf8)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0f172a?style=flat-square&logo=huggingface&logoColor=38bdf8)
-![DVC](https://img.shields.io/badge/DVC-0f172a?style=flat-square&logo=dvc&logoColor=38bdf8)
-![Jupyter](https://img.shields.io/badge/Jupyter-0f172a?style=flat-square&logo=jupyter&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=38bdf8)
+## Toolkit
+
+| | |
+|---|---|
+| **Languages** | Python, C++, SQL |
+| **Machine learning** | PyTorch, TensorFlow, model evaluation |
+| **Engineering** | FastAPI, Docker, Git, Linux |
+| **Data** | Pandas, NumPy, Power BI |
 
 ## Contact
 
-Open to GenAI / ML internships and entry-level roles. Email is the fastest way to reach me.
+The fastest way to reach me is [email](mailto:shauryaagrawal756@gmail.com). I'm also on [LinkedIn](https://www.linkedin.com/in/shaurya-agrawal28).
